@@ -1,0 +1,20 @@
+.center {
+    margin: auto;
+    text-align: center;
+}
+
+.search {
+    background-color: #EEEEEE;
+}
+
+.specials {
+    background-color: #7EE5DA;
+}
+
+.nav {
+    background-color: #70CCC2;
+}
+
+.updates {
+    background-color: #62B3AA;
+}
